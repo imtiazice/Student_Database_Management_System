@@ -12,6 +12,11 @@ import javax.swing.UIManager;
  * and open the template in the editor.
  */
 
+/**
+ *
+ * @author IMTIAZ
+ */
+
 
 public class Login extends javax.swing.JFrame {
 Connection conn;

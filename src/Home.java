@@ -18,7 +18,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author Ram Sundar
+ * @author IMTIAZ
  */
 public class Home extends javax.swing.JFrame {
 Connection conn;

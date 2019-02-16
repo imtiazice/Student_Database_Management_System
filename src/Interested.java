@@ -42,6 +42,13 @@ import java.io.FileReader;
  * and open the template in the editor.
  */
 
+/**
+ *
+ * @author IMTIAZ
+ */
+
+
+
 
 public class Interested extends javax.swing.JFrame {
 Connection conn;
